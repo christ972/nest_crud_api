@@ -12,5 +12,5 @@ Ce projet est une application web simple pour la gestion de livres utilisant Nes
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone 
+   git clone https://github.com/christ972/nest_crud_api.git
    cd nest_crud_api
