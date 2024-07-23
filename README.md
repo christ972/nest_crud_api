@@ -1,3 +1,5 @@
+# API de Gestion de Livres avec NestJS et PostgreSQL
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -19,7 +21,6 @@
     <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 </p>
-# API de Gestion de Livres avec NestJS et PostgreSQL
 
 ## Description
 Ce projet est une application web simple pour la gestion de livres utilisant NestJS et PostgreSQL. Il permet d'ajouter, de supprimer, de mettre à jour et de récupérer des livres stockés dans une base de données PostgreSQL.
