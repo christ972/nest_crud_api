@@ -9,7 +9,7 @@ Ce projet est une application web simple pour la gestion de livres utilisant Nes
 - NestJS CLI
   
 ##Test
-  Postnam || Curl
+  -Postnam || Curl
   
 ## Installation
 
